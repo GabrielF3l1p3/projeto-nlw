@@ -99,7 +99,7 @@ section ul li:hover {
     border-radius: 50%;
 }
 
-/* Anumation */
+/* Animation */
 
 header div {
     animation: fromtop .7s .2s backwards;
